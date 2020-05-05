@@ -1,2 +1,0 @@
-# reactMethodAsProps
-Created with CodeSandbox
